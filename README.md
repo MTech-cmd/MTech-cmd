@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm currently working on my portfolio website.\
+I'm currently learning scrum theory!\
+I'm currently looking for clients with projects.\
+Here are ways you can reach me:
+- [Em](mailto:mehdiek@outlook.com)
 
 <!--
 **MTech-cmd/MTech-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
