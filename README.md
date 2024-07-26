@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="mtech.png" width="35" class="spinner">Coding tomorrow, today!\
+<img src="mtech.png" width="35">Coding tomorrow, today!\
 🔭I'm currently working on my portfolio website. which you can find [here](https://github.com/MTech-cmd/Portfolio)\
 🌱I'm currently learning React!\
 👯I'm currently looking for clients with projects.\
